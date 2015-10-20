@@ -1,0 +1,14 @@
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll.config
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Models.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Models.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.xml
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csprojResolveAssemblyReference.cache
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.Migrations.InitialCreate.resources
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.GenerateResource.Cache

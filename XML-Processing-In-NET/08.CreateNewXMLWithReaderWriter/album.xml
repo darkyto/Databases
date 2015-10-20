@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>Rapa na Keranov</name>
+		<artist>Keranov</artist>
+	</album>
+	<album>
+		<name>Ligavshtini</name>
+		<artist>Maria Ilieva</artist>
+	</album>
+	<album>
+		<name>Komersialen album</name>
+		<artist>Krisko</artist>
+	</album>
+	<album>
+		<name>Komersialen album 2</name>
+		<artist>Krisko</artist>
+	</album>
+	<album>
+		<name>Novi Ligavshtini</name>
+		<artist>Maria Ilieva</artist>
+	</album>
+</albums>

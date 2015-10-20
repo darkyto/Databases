@@ -1,0 +1,6 @@
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\bin\Debug\03.ExtractUsingXPath.exe.config
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\bin\Debug\03.ExtractUsingXPath.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\bin\Debug\03.ExtractUsingXPath.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\obj\Debug\03.ExtractUsingXPath.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\obj\Debug\03.ExtractUsingXPath.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\03.ExtractUsingXPath\obj\Debug\03.ExtractUsingXPath.csprojResolveAssemblyReference.cache

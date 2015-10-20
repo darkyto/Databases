@@ -1,0 +1,10 @@
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\01.RetrivingDataFromNW.exe.config
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\01.RetrivingDataFromNW.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\01.RetrivingDataFromNW.pdb
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\EntityFramework.dll
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\EntityFramework.xml
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\obj\Debug\01.RetrivingDataFromNW.csprojResolveAssemblyReference.cache
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\obj\Debug\01.RetrivingDataFromNW.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrivingDataFromNW\obj\Debug\01.RetrivingDataFromNW.pdb

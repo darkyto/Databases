@@ -1,0 +1,5 @@
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\12.ExtractOldAlbumsViaLINQ\bin\Debug\12.ExtractOldAlbumsViaLINQ.exe.config
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\12.ExtractOldAlbumsViaLINQ\bin\Debug\12.ExtractOldAlbumsViaLINQ.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\12.ExtractOldAlbumsViaLINQ\bin\Debug\12.ExtractOldAlbumsViaLINQ.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\12.ExtractOldAlbumsViaLINQ\obj\Debug\12.ExtractOldAlbumsViaLINQ.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\12.ExtractOldAlbumsViaLINQ\obj\Debug\12.ExtractOldAlbumsViaLINQ.pdb

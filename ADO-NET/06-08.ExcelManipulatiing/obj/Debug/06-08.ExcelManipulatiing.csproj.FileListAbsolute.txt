@@ -1,0 +1,5 @@
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\bin\Debug\06-08.ExcelManipulatiing.pdb
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\obj\Debug\06-08.ExcelManipulatiing.pdb
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\bin\Debug\06-08.ExcelManipulatiing.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\obj\Debug\06-08.ExcelManipulatiing.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\obj\Debug\06-08.ExcelManipulatiing.csprojResolveAssemblyReference.cache

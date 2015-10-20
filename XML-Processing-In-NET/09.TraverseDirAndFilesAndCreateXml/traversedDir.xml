@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <dir name="XMLProcessingInNET">
+        <file name="catalogue" type="xml" />
+        <file name="StyleCop" type="Cache" />
+        <file name="XMLProcessingInNET" type="sln" />
+        <dir name=".vs">
+            <dir name="XMLProcessingInNET">
+                <dir name="v14">
+                    <file name="" type="suo" />
+                </dir>
+            </dir>
+        </dir>
+        <dir name="01.ExtractArtistAndNumberOfAlbums">
+            <file name="01.ExtractArtistAndNumberOfAlbums" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="01.ExtractArtistAndNumberOfAlbums" type="exe" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums.exe" type="config" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums" type="pdb" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums.vshost" type="exe" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums.vshost.exe" type="config" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums.vshost.exe" type="manifest" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="01.ExtractArtistAndNumberOfAlbums.csproj.FileListAbsolute" type="txt" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums.csprojResolveAssemblyReference" type="cache" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums" type="exe" />
+                    <file name="01.ExtractArtistAndNumberOfAlbums" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="03.ExtractUsingXPath">
+            <file name="03.ExtractUsingXPath" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="03.ExtractUsingXPath" type="exe" />
+                    <file name="03.ExtractUsingXPath.exe" type="config" />
+                    <file name="03.ExtractUsingXPath" type="pdb" />
+                    <file name="03.ExtractUsingXPath.vshost" type="exe" />
+                    <file name="03.ExtractUsingXPath.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="03.ExtractUsingXPath.csproj.FileListAbsolute" type="txt" />
+                    <file name="03.ExtractUsingXPath.csprojResolveAssemblyReference" type="cache" />
+                    <file name="03.ExtractUsingXPath" type="exe" />
+                    <file name="03.ExtractUsingXPath" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="04.DeleteAllAlbumsWithLowPrice">
+            <file name="04.DeleteAllAlbumsWithLowPrice" type="csproj" />
+            <file name="App" type="config" />
+            <file name="catalogueWithSelectedPricesOver20" type="xml" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="04.DeleteAllAlbumsWithLowPrice" type="exe" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice.exe" type="config" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice" type="pdb" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice.vshost" type="exe" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="04.DeleteAllAlbumsWithLowPrice.csproj.FileListAbsolute" type="txt" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice" type="exe" />
+                    <file name="04.DeleteAllAlbumsWithLowPrice" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="05.ExtractingSongsWithXmlReader">
+            <file name="05.ExtractingSongsWithXmlReader" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="05.ExtractingSongsWithXmlReader" type="exe" />
+                    <file name="05.ExtractingSongsWithXmlReader.exe" type="config" />
+                    <file name="05.ExtractingSongsWithXmlReader" type="pdb" />
+                    <file name="05.ExtractingSongsWithXmlReader.vshost" type="exe" />
+                    <file name="05.ExtractingSongsWithXmlReader.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="05.ExtractingSongsWithXmlReader.csproj.FileListAbsolute" type="txt" />
+                    <file name="05.ExtractingSongsWithXmlReader.csprojResolveAssemblyReference" type="cache" />
+                    <file name="05.ExtractingSongsWithXmlReader" type="exe" />
+                    <file name="05.ExtractingSongsWithXmlReader" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="06.AllSongsWithLINQ">
+            <file name="06.AllSongsWithLINQ" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="06.AllSongsWithLINQ" type="exe" />
+                    <file name="06.AllSongsWithLINQ.exe" type="config" />
+                    <file name="06.AllSongsWithLINQ" type="pdb" />
+                    <file name="06.AllSongsWithLINQ.vshost" type="exe" />
+                    <file name="06.AllSongsWithLINQ.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="06.AllSongsWithLINQ.csproj.FileListAbsolute" type="txt" />
+                    <file name="06.AllSongsWithLINQ" type="exe" />
+                    <file name="06.AllSongsWithLINQ" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="07.TextToXml">
+            <file name="07.TextToXml" type="csproj" />
+            <file name="App" type="config" />
+            <file name="people" type="txt" />
+            <file name="people" type="xml" />
+            <file name="Person" type="cs" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="07.TextToXml" type="exe" />
+                    <file name="07.TextToXml.exe" type="config" />
+                    <file name="07.TextToXml" type="pdb" />
+                    <file name="07.TextToXml.vshost" type="exe" />
+                    <file name="07.TextToXml.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="07.TextToXml.csproj.FileListAbsolute" type="txt" />
+                    <file name="07.TextToXml.csprojResolveAssemblyReference" type="cache" />
+                    <file name="07.TextToXml" type="exe" />
+                    <file name="07.TextToXml" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="08.CreateNewXMLWithReaderWriter">
+            <file name="08.CreateNewXMLWithReaderWriter" type="csproj" />
+            <file name="album" type="xml" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="Settings" type="StyleCop" />
+            <file name="StyleCop" type="Cache" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="08.CreateNewXMLWithReaderWriter" type="exe" />
+                    <file name="08.CreateNewXMLWithReaderWriter.exe" type="config" />
+                    <file name="08.CreateNewXMLWithReaderWriter" type="pdb" />
+                    <file name="08.CreateNewXMLWithReaderWriter.vshost" type="exe" />
+                    <file name="08.CreateNewXMLWithReaderWriter.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="08.CreateNewXMLWithReaderWriter.csproj.FileListAbsolute" type="txt" />
+                    <file name="08.CreateNewXMLWithReaderWriter.csprojResolveAssemblyReference" type="cache" />
+                    <file name="08.CreateNewXMLWithReaderWriter" type="exe" />
+                    <file name="08.CreateNewXMLWithReaderWriter" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="09.TraverseDirAndFilesAndCreateXml">
+            <file name="09.TraverseDirAndFilesAndCreateXml" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="traversedDir" type="xml" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="09.TraverseDirAndFilesAndCreateXml" type="exe" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml.exe" type="config" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml" type="pdb" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml.vshost" type="exe" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="09.TraverseDirAndFilesAndCreateXml.csproj.FileListAbsolute" type="txt" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml.csprojResolveAssemblyReference" type="cache" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml" type="exe" />
+                    <file name="09.TraverseDirAndFilesAndCreateXml" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+        <dir name="10.TraverseViaXPath">
+            <file name="10.TraverseViaXPath" type="csproj" />
+            <file name="App" type="config" />
+            <file name="Program" type="cs" />
+            <file name="traversedDirXPath" type="xml" />
+            <dir name="bin">
+                <dir name="Debug">
+                    <file name="10.TraverseViaXPath" type="exe" />
+                    <file name="10.TraverseViaXPath.exe" type="config" />
+                    <file name="10.TraverseViaXPath" type="pdb" />
+                    <file name="10.TraverseViaXPath.vshost" type="exe" />
+                    <file name="10.TraverseViaXPath.vshost.exe" type="config" />
+                </dir>
+            </dir>
+            <dir name="obj">
+                <dir name="Debug">
+                    <file name="10.TraverseViaXPath.csproj.FileListAbsolute" type="txt" />
+                    <file name="10.TraverseViaXPath.csprojResolveAssemblyReference" type="cache" />
+                    <file name="10.TraverseViaXPath" type="exe" />
+                    <file name="10.TraverseViaXPath" type="pdb" />
+                    <file name="DesignTimeResolveAssemblyReferencesInput" type="cache" />
+                    <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" type="cs" />
+                    <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" type="cs" />
+                    <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" type="cs" />
+                </dir>
+            </dir>
+            <dir name="Properties">
+                <file name="AssemblyInfo" type="cs" />
+            </dir>
+        </dir>
+    </dir>
+</root>

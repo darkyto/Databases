@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <id>yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw</id>
+ <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+ <title>TelerikAcademy</title>
+ <link rel="alternate" href="http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <author>
+  <name>TelerikAcademy</name>
+  <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+ </author>
+ <published>2011-06-24T15:53:13+00:00</published>
+ <entry>
+  <id>yt:video:9q7FJo-uDzE</id>
+  <yt:videoId>9q7FJo-uDzE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Transaction concepts</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=9q7FJo-uDzE"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-16T13:26:58+00:00</published>
+  <updated>2015-10-16T13:54:57+00:00</updated>
+  <media:group>
+   <media:title>Transaction concepts</media:title>
+   <media:content url="https://www.youtube.com/v/9q7FJo-uDzE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9q7FJo-uDzE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DHz0XvzXceo</id>
+  <yt:videoId>DHz0XvzXceo</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Бързодействие в базите данни (Ники)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=DHz0XvzXceo"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-16T07:02:09+00:00</published>
+  <updated>2015-10-16T11:42:37+00:00</updated>
+  <media:group>
+   <media:title>Бързодействие в базите данни (Ники)</media:title>
+   <media:content url="https://www.youtube.com/v/DHz0XvzXceo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DHz0XvzXceo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Бързодействие в базите данни
+Курс: Бази данни 2015
+Лектор: Николай Костов
+Дата: 14 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="40"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ekZZpIwcZbs</id>
+  <yt:videoId>ekZZpIwcZbs</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Алгоритми върху низове</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=ekZZpIwcZbs"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-15T18:32:02+00:00</published>
+  <updated>2015-10-16T10:33:52+00:00</updated>
+  <media:group>
+   <media:title>Алгоритми върху низове</media:title>
+   <media:content url="https://www.youtube.com/v/ekZZpIwcZbs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ekZZpIwcZbs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Алгоритми върху низове
+Курс: Алго академия
+Лектор: Кристиян Цъклев
+Дата: 15 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="52"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uUgtk46iB-c</id>
+  <yt:videoId>uUgtk46iB-c</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Data types and variables - Кристиян</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=uUgtk46iB-c"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-14T15:20:25+00:00</published>
+  <updated>2015-10-14T20:05:19+00:00</updated>
+  <media:group>
+   <media:title>Data types and variables - Кристиян</media:title>
+   <media:content url="https://www.youtube.com/v/uUgtk46iB-c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uUgtk46iB-c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Data types and variables
+Курс: C++ Fundamentals
+Лектор: Кристиян Цъклев
+Дата: 14 октомври 2015
+Слайдове: https://github.com/TelerikAcademy/CPlusPlusFundamentals/tree/master/02.%20Data-types-and-variables
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="104"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pZStrhOnx3g</id>
+  <yt:videoId>pZStrhOnx3g</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Console IO - Кристиян</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=pZStrhOnx3g"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-14T15:16:02+00:00</published>
+  <updated>2015-10-14T20:12:15+00:00</updated>
+  <media:group>
+   <media:title>Console IO - Кристиян</media:title>
+   <media:content url="https://www.youtube.com/v/pZStrhOnx3g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pZStrhOnx3g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Console IO
+Курс: C++ Fundamentals
+Лектор: Кристиян Цъклев
+Дата: 14 октомври 2015
+Слайдове: https://github.com/TelerikAcademy/CPlusPlusFundamentals/blob/master/03.%20Console-IO/slides/README.md
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="77"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:w7CCM6gpxqE</id>
+  <yt:videoId>w7CCM6gpxqE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Основи на графичния дизайн</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=w7CCM6gpxqE"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-14T10:00:39+00:00</published>
+  <updated>2015-10-15T04:55:47+00:00</updated>
+  <media:group>
+   <media:title>Основи на графичния дизайн</media:title>
+   <media:content url="https://www.youtube.com/v/w7CCM6gpxqE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w7CCM6gpxqE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Основи на графичния дизайн
+Курс: UX дизайн
+Лектор: Светлин Николаев и Васил Йорданов
+Дата: 13 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="158"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t4Ci29cdRoY</id>
+  <yt:videoId>t4Ci29cdRoY</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Entity Framework Code First</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=t4Ci29cdRoY"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-13T09:12:53+00:00</published>
+  <updated>2015-10-16T11:23:19+00:00</updated>
+  <media:group>
+   <media:title>Entity Framework Code First</media:title>
+   <media:content url="https://www.youtube.com/v/t4Ci29cdRoY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t4Ci29cdRoY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Entity Framework Code First
+Курс: Бази данни 2015
+Лектор: Ивайло Кенов
+Дата: 12 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="150"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6aJtjXf7RKg</id>
+  <yt:videoId>6aJtjXf7RKg</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Алго за напреднали - 04.10.2015 г. - Явор</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=6aJtjXf7RKg"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-10T07:38:34+00:00</published>
+  <updated>2015-10-10T07:41:21+00:00</updated>
+  <media:group>
+   <media:title>Алго за напреднали - 04.10.2015 г. - Явор</media:title>
+   <media:content url="https://www.youtube.com/v/6aJtjXf7RKg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6aJtjXf7RKg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс: Алго за напреднали
+Лектор: Явор Никифоров
+Дата: 03 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="148"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RRbBSl-fH14</id>
+  <yt:videoId>RRbBSl-fH14</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Урок 1: 04.10.2015 (неделя: 9:00 - 12:00 ч.)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=RRbBSl-fH14"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-10T07:35:38+00:00</published>
+  <updated>2015-10-10T07:35:38+00:00</updated>
+  <media:group>
+   <media:title>Урок 1: 04.10.2015 (неделя: 9:00 - 12:00 ч.)</media:title>
+   <media:content url="https://www.youtube.com/v/RRbBSl-fH14?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RRbBSl-fH14/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс: Game Dev начинаещи
+Лектор: Явор Никифоров
+Дата: 04 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="128"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:254HAfH3c0A</id>
+  <yt:videoId>254HAfH3c0A</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Урок 1: 03.10.2015 (събота: 9:00 - 12:00 ч)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=254HAfH3c0A"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T16:12:57+00:00</published>
+  <updated>2015-10-13T18:09:49+00:00</updated>
+  <media:group>
+   <media:title>Урок 1: 03.10.2015 (събота: 9:00 - 12:00 ч)</media:title>
+   <media:content url="https://www.youtube.com/v/254HAfH3c0A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/254HAfH3c0A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс: Game Dev начинаещи
+Лектор: Явор Никифоров
+Дата: 03 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="233"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PPntD3vFoUQ</id>
+  <yt:videoId>PPntD3vFoUQ</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Entity Framework</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=PPntD3vFoUQ"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T14:54:26+00:00</published>
+  <updated>2015-10-11T12:01:26+00:00</updated>
+  <media:group>
+   <media:title>Entity Framework</media:title>
+   <media:content url="https://www.youtube.com/v/PPntD3vFoUQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PPntD3vFoUQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Entity Framework
+Курс: Бази данни 2015
+Лектор: Ивайло Кенов
+Дата: 9 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="233"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KzxOlP68n4M</id>
+  <yt:videoId>KzxOlP68n4M</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Entity Framework Performance</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=KzxOlP68n4M"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T14:37:46+00:00</published>
+  <updated>2015-10-13T19:03:13+00:00</updated>
+  <media:group>
+   <media:title>Entity Framework Performance</media:title>
+   <media:content url="https://www.youtube.com/v/KzxOlP68n4M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KzxOlP68n4M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Entity Framework Performance
+Курс: Бази данни 2015
+Лектор: Ивайло Кенов
+Дата: 9 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="141"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JB6HMjdy5No</id>
+  <yt:videoId>JB6HMjdy5No</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Подготовка за изпит по КПК (задача Computers) (Ники)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=JB6HMjdy5No"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T12:38:10+00:00</published>
+  <updated>2015-10-15T18:16:20+00:00</updated>
+  <media:group>
+   <media:title>Подготовка за изпит по КПК (задача Computers) (Ники)</media:title>
+   <media:content url="https://www.youtube.com/v/JB6HMjdy5No?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JB6HMjdy5No/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Подготовка за изпит по КПК (задача Computers)
+Курс: Качествен програмен код 2015
+Лектор: Николай Костов
+Дата: 8 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="1338"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eim9A806Hw8</id>
+  <yt:videoId>eim9A806Hw8</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Въведение в UX</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=eim9A806Hw8"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T09:22:21+00:00</published>
+  <updated>2015-10-10T12:36:40+00:00</updated>
+  <media:group>
+   <media:title>Въведение в UX</media:title>
+   <media:content url="https://www.youtube.com/v/eim9A806Hw8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eim9A806Hw8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Въведение в UX
+Курс: UX дезайн 2015
+Лектор: Васил Йорданов
+Дата: 1 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="237"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VyRPwW2kAGw</id>
+  <yt:videoId>VyRPwW2kAGw</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Interaction Design Principle</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=VyRPwW2kAGw"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2015-10-09T09:17:44+00:00</published>
+  <updated>2015-10-10T18:14:06+00:00</updated>
+  <media:group>
+   <media:title>Interaction Design Principle</media:title>
+   <media:content url="https://www.youtube.com/v/VyRPwW2kAGw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VyRPwW2kAGw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Проектиране на взаимодействието. Основни принципи и ползваемост.
+Курс: UX дизайн
+Лектор: Елина Рачолова
+Дата: 8 октомври 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="210"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

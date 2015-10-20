@@ -1,0 +1,14 @@
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.ConsoleUI.exe.config
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.ConsoleUI.exe
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.ConsoleUI.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\obj\Debug\CodeFirst.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\obj\Debug\CodeFirst.ConsoleUI.exe
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\obj\Debug\CodeFirst.ConsoleUI.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.Data.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.Models.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\EntityFramework.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.Data.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\CodeFirst.Models.pdb
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\EntityFramework.xml
+D:\TELERIK\Databases\Homeworks\EntityFramework-CodeFirst\CodeFirst\CodeFirst.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml

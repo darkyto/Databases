@@ -1,0 +1,359 @@
+<stylecopresultscache>
+  <version>12</version>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/27 18:19:31.770</styleCop>
+      <settingsFile>2015/10/20 12:16:54.419</settingsFile>
+      <sourceFile>2015/10/20 12:08:28.456</sourceFile>
+      <parser>2015/09/27 18:19:31.770</parser>
+      <StyleCop.CSharp.DocumentationRules>2015/09/27 18:19:31.770</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1025713538</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2015/09/27 18:19:31.770</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <project key="784366084">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CodeFirstDbContext.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/27 18:19:31.770</styleCop>
+      <settingsFile>2015/10/20 12:16:54.419</settingsFile>
+      <sourceFile>2015/10/20 13:51:15.451</sourceFile>
+      <parser>2015/09/27 18:19:31.770</parser>
+      <StyleCop.CSharp.DocumentationRules>2015/09/27 18:19:31.770</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1025713538</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2015/09/27 18:19:31.770</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Configuration.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/27 18:19:31.770</styleCop>
+      <settingsFile>2015/10/20 12:16:54.419</settingsFile>
+      <sourceFile>2015/10/20 14:09:24.114</sourceFile>
+      <parser>2015/09/27 18:19:31.770</parser>
+      <StyleCop.CSharp.DocumentationRules>2015/09/27 18:19:31.770</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1025713538</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2015/09/27 18:19:31.770</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="CommentsMustContainText" ruleCheckId="SA1120">
+        <context>The comment is empty. Add text to the comment or remove it.</context>
+        <line>26</line>
+        <index>974</index>
+        <endIndex>975</endIndex>
+        <startLine>26</startLine>
+        <startColumn>13</startColumn>
+        <endLine>26</endLine>
+        <endColumn>14</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>15</line>
+        <index>444</index>
+        <endIndex>512</endIndex>
+        <startLine>15</startLine>
+        <startColumn>13</startColumn>
+        <endLine>15</endLine>
+        <endColumn>81</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>17</line>
+        <index>529</index>
+        <endIndex>595</endIndex>
+        <startLine>17</startLine>
+        <startColumn>13</startColumn>
+        <endLine>17</endLine>
+        <endColumn>79</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="201510201051212_InitialCreate.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/27 18:19:31.770</styleCop>
+      <settingsFile>2015/10/20 12:16:54.419</settingsFile>
+      <sourceFile>2015/10/20 14:01:05.019</sourceFile>
+      <parser>2015/09/27 18:19:31.770</parser>
+      <StyleCop.CSharp.DocumentationRules>2015/09/27 18:19:31.770</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1025713538</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2015/09/27 18:19:31.770</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>87</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>91</line>
+        <index>3588</index>
+        <endIndex>3601</endIndex>
+        <startLine>91</startLine>
+        <startColumn>13</startColumn>
+        <endLine>91</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>92</line>
+        <index>3668</index>
+        <endIndex>3681</endIndex>
+        <startLine>92</startLine>
+        <startColumn>13</startColumn>
+        <endLine>92</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>93</line>
+        <index>3752</index>
+        <endIndex>3765</endIndex>
+        <startLine>93</startLine>
+        <startColumn>13</startColumn>
+        <endLine>93</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>94</line>
+        <index>3826</index>
+        <endIndex>3839</endIndex>
+        <startLine>94</startLine>
+        <startColumn>13</startColumn>
+        <endLine>94</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>95</line>
+        <index>3905</index>
+        <endIndex>3918</endIndex>
+        <startLine>95</startLine>
+        <startColumn>13</startColumn>
+        <endLine>95</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropForeignKey must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>96</line>
+        <index>3986</index>
+        <endIndex>3999</endIndex>
+        <startLine>96</startLine>
+        <startColumn>13</startColumn>
+        <endLine>96</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>97</line>
+        <index>4058</index>
+        <endIndex>4066</endIndex>
+        <startLine>97</startLine>
+        <startColumn>13</startColumn>
+        <endLine>97</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>98</line>
+        <index>4128</index>
+        <endIndex>4136</endIndex>
+        <startLine>98</startLine>
+        <startColumn>13</startColumn>
+        <endLine>98</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>99</line>
+        <index>4200</index>
+        <endIndex>4208</endIndex>
+        <startLine>99</startLine>
+        <startColumn>13</startColumn>
+        <endLine>99</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>100</line>
+        <index>4269</index>
+        <endIndex>4277</endIndex>
+        <startLine>100</startLine>
+        <startColumn>13</startColumn>
+        <endLine>100</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>101</line>
+        <index>4339</index>
+        <endIndex>4347</endIndex>
+        <startLine>101</startLine>
+        <startColumn>13</startColumn>
+        <endLine>101</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropIndex must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>102</line>
+        <index>4402</index>
+        <endIndex>4410</endIndex>
+        <startLine>102</startLine>
+        <startColumn>13</startColumn>
+        <endLine>102</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>103</line>
+        <index>4464</index>
+        <endIndex>4472</endIndex>
+        <startLine>103</startLine>
+        <startColumn>13</startColumn>
+        <endLine>103</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>104</line>
+        <index>4511</index>
+        <endIndex>4519</endIndex>
+        <startLine>104</startLine>
+        <startColumn>13</startColumn>
+        <endLine>104</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>105</line>
+        <index>4557</index>
+        <endIndex>4565</endIndex>
+        <startLine>105</startLine>
+        <startColumn>13</startColumn>
+        <endLine>105</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>106</line>
+        <index>4598</index>
+        <endIndex>4606</endIndex>
+        <startLine>106</startLine>
+        <startColumn>13</startColumn>
+        <endLine>106</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>107</line>
+        <index>4638</index>
+        <endIndex>4646</endIndex>
+        <startLine>107</startLine>
+        <startColumn>13</startColumn>
+        <endLine>107</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to DropTable must begin with the 'this.', 'base.', 'object.' or 'InitialCreate.' or 'DbMigration.' prefix to indicate the intended method call. </context>
+        <line>108</line>
+        <index>4678</index>
+        <endIndex>4686</endIndex>
+        <startLine>108</startLine>
+        <startColumn>13</startColumn>
+        <endLine>108</endLine>
+        <endColumn>21</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="201510201051212_InitialCreate.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/27 18:19:31.770</styleCop>
+      <settingsFile>2015/10/20 12:16:54.419</settingsFile>
+      <sourceFile>2015/10/20 14:01:05.390</sourceFile>
+      <parser>2015/09/27 18:19:31.770</parser>
+      <StyleCop.CSharp.DocumentationRules>2015/09/27 18:19:31.770</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1025713538</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2015/09/27 18:19:31.770</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2015/09/27 18:19:31.770</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2015/09/27 18:19:31.770</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

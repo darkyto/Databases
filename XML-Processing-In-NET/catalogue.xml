@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue>
+  <album>
+    <name>Rapa na Keranov</name>
+    <artist>Keranov</artist>
+    <year>2009</year>
+    <producer>Keranov</producer>
+    <price>25</price>
+    <songs>
+      <song>
+        <title>Te sa Zeleni</title>
+        <duration>3.54</duration>
+      </song>
+      <song>
+        <title>Proval</title>
+        <duration>4.26</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Ligavshtini</name>
+    <artist>Maria Ilieva</artist>
+    <year>2016</year>
+    <producer>Debel Chicho</producer>
+    <price>6</price>
+    <songs>
+      <song>
+        <title>Pravq se na rapurka</title>
+        <duration>2.54</duration>
+      </song>
+      <song>
+        <title>Grimiran krokozubel</title>
+        <duration>4.30</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Komersialen album</name>
+    <artist>Krisko</artist>
+    <year>2016</year>
+    <producer>Debel Chicho</producer>
+    <price>21</price>
+    <songs>
+      <song>
+        <title>Ko rechi</title>
+        <duration>3.54</duration>
+      </song>
+      <song>
+        <title>Bla-BLa-Bla</title>
+        <duration>4.06</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Komersialen album 2</name>
+    <artist>Krisko</artist>
+    <year>2017</year>
+    <producer>Debel Chicho</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>Novoto Ko rechi</title>
+        <duration>3.54</duration>
+      </song>
+      <song>
+        <title>Bla-Bla-BLa-Bla na kvadrat</title>
+        <duration>5.06</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Novi Ligavshtini</name>
+    <artist>Maria Ilieva</artist>
+    <year>2018</year>
+    <producer>Debel Chicho</producer>
+    <price>32</price>
+    <songs>
+      <song>
+        <title>Pak se Pravq se na rapurka</title>
+        <duration>4.17</duration>
+      </song>
+      <song>
+        <title>Po-Grimiran krokozubel</title>
+        <duration>4.30</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

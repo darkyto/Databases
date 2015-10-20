@@ -1,0 +1,4 @@
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\07.SearchInTables\bin\Debug\07.SearchInTables.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\07.SearchInTables\bin\Debug\07.SearchInTables.pdb
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\07.SearchInTables\obj\Debug\07.SearchInTables.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\07.SearchInTables\obj\Debug\07.SearchInTables.pdb

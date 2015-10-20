@@ -1,0 +1,1 @@
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\01.RetrieveFromNorthwindDB\bin\Debug\01.RetrieveFromNorthwindDB.exe.config

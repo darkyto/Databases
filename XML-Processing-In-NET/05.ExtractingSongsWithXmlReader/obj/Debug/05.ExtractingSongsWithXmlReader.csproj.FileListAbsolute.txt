@@ -1,0 +1,6 @@
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\bin\Debug\05.ExtractingSongsWithXmlReader.exe.config
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\bin\Debug\05.ExtractingSongsWithXmlReader.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\bin\Debug\05.ExtractingSongsWithXmlReader.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\obj\Debug\05.ExtractingSongsWithXmlReader.csprojResolveAssemblyReference.cache
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\obj\Debug\05.ExtractingSongsWithXmlReader.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\05.ExtractingSongsWithXmlReader\obj\Debug\05.ExtractingSongsWithXmlReader.pdb

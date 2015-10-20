@@ -1,0 +1,5 @@
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\11.ExtractOldAlbumsPrices\bin\Debug\11.ExtractOldAlbumsPrices.exe.config
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\11.ExtractOldAlbumsPrices\bin\Debug\11.ExtractOldAlbumsPrices.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\11.ExtractOldAlbumsPrices\bin\Debug\11.ExtractOldAlbumsPrices.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\11.ExtractOldAlbumsPrices\obj\Debug\11.ExtractOldAlbumsPrices.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\11.ExtractOldAlbumsPrices\obj\Debug\11.ExtractOldAlbumsPrices.pdb

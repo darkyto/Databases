@@ -1,0 +1,2 @@
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\obj\Debug\06-08.ExcelManipulatiing.exe
+D:\TELERIK\Databases\Homeworks\ADO-NET\ADO-NET\06-08.ExcelManipulatiing\obj\Debug\06-08.ExcelManipulatiing.pdb

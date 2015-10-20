@@ -1,0 +1,6 @@
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\bin\Debug\10.TraverseViaXPath.exe.config
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\bin\Debug\10.TraverseViaXPath.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\bin\Debug\10.TraverseViaXPath.pdb
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\obj\Debug\10.TraverseViaXPath.csprojResolveAssemblyReference.cache
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\obj\Debug\10.TraverseViaXPath.exe
+D:\TELERIK\Databases\Homeworks\XML-Processing-In-NET\XMLProcessingInNET\10.TraverseViaXPath\obj\Debug\10.TraverseViaXPath.pdb

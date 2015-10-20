@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+	<person>
+		<name>Anna</name>
+		<address>Sofia, BUlgaria</address>
+		<phoneNumber>00359252525</phoneNumber>
+	</person>
+	<person>
+		<name>Georgi</name>
+		<address>Plovdiv, Bulgaria</address>
+		<phoneNumber>0035915454545</phoneNumber>
+	</person>
+	<person>
+		<name>Stamat</name>
+		<address>London, UK</address>
+		<phoneNumber>0026456456465</phoneNumber>
+	</person>
+</people>
